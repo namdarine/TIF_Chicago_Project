@@ -1,1 +1,2 @@
 ## Acknowledgment
+We would like to thank Dr. Robert Ellis and Tom Tresser for their valuable guidance throughout the semester. Dr. Robert Ellis is an Associate Professor of Applied Mathematics at IIT and was our primary instructor of the course. Tom Tresser is a Public Defender and Civic Educator, primarily focused on uncovering the truth about Chicago TIF districts, and is a primary contributor to The TIF Illumination Project.
