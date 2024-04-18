@@ -9,13 +9,13 @@ Jan, 2024 ~ Apr, 2024
 
 
 <!-- ## Conclusion and Limitations - Joe -->
-## [Conclusion](./Conclusion.md)
+## [Conclusion](./Documentation/Conclusion.md)
 
 <!-- ## Acknowledgements - Lane -->
-## [Acknowledgements](./Acknowledgment.md)
+## [Acknowledgements](./Documentation/Acknowledgment.md)
 
 <!-- ## References - All -->
-## [References](./Reference.md)
+## [References](./Documentation/Reference.md)
 
 ## Contributors
 
