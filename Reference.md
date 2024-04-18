@@ -1,2 +1,2 @@
-## Reference
+## References
 (in APA style)
