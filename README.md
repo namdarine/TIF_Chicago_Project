@@ -2,13 +2,23 @@
 ### Duration
 Jan, 2024 ~ Apr, 2024
 
-## Abstract
+## Abstract - Joe
 
-## Introduction
-  
 
-## Motivation
-  
+## Introduction - Lane
+
+
+## Background
+### Understanding of boundaries - Lane
+
+### Income distribution (Gamma distribution) - Kunwoo
+
+### Bartlett test of sphericity - JJ
+
+### PCA - JJ
+
+### Clustering, elbow method, silhouette method - Nam
+
   
 ## Contributor
 
