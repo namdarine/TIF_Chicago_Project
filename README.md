@@ -8,22 +8,6 @@ Jan, 2024 ~ Apr, 2024
 ## Introduction - Lane
 
 
-## Background
-### Understanding of boundaries - Lane
-
-
-### Income distribution (Gamma distribution) - Kunwoo
-
-
-### Bartlett test of sphericity - JJ
-
-
-### PCA - JJ
-
-
-### Clustering, elbow method, silhouette method - Nam
-
-
 ## Conclusion and Limitations - Joe
 
 
