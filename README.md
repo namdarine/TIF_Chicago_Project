@@ -2,16 +2,38 @@
 ### Duration
 Jan, 2024 ~ Apr, 2024
 
-## Abstract
+## Abstract - Joe
 
-## Introduction
-  
 
-## Motivation
-  
-  
-## Contributor
+## Introduction - Lane
 
+
+## Background
+### Understanding of boundaries - Lane
+
+
+### Income distribution (Gamma distribution) - Kunwoo
+
+
+### Bartlett test of sphericity - JJ
+
+
+### PCA - JJ
+
+
+### Clustering, elbow method, silhouette method - Nam
+
+
+## Conclusion and Limitations - Joe
+
+
+## Acknowledgements - Lane
+
+
+## References - All
+
+
+## Contributors
 <div class="photos">
 <a href="https://github.com/Juhyunn0"> 
   <img href="Github profile image source"> 
