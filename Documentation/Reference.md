@@ -1,6 +1,10 @@
 ## References
 (in APA style)
 
+Census Bureau Data. https://data.census.gov/
+
+Chicago Data Portal. https://data.cityofchicago.org/browse?category=Facilities+%26+Geographic%20Boundaries
+
 U.S. Census Bureau. (2022). Educational Attainment for the Population 25 Years and Over. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B15003. Retrieved April 15, 2024, from https://data.census.gov/table/ACSDT5Y2022.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.
 
 U.S. Census Bureau. (2021). EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B15003. Retrieved April 15, 2024, from https://data.census.gov/table/ACSDT5Y2021.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.
