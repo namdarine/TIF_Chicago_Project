@@ -32,7 +32,7 @@ Where:
 - $I$ represents the identity matrix.
 
 The null hypothesis asserts that the correlation matrix $\Sigma$ is equal to the identity matrix $I$, indicating that the variables in the dataset are essentially unrelated or uncorrelated.
-
+The test statistic follows a chi-square distribution, and if the p-value associated with the test is small (less than 0.05), we reject the null hypothesis, indicating that the variables are not uncorrelated.
 
 
 
