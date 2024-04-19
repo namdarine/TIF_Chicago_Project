@@ -6,7 +6,7 @@ When choosing what boundaries to use we had to ensure we would be able to acquir
 Contents
 
 ### Bartlett test of sphericity - JJ
-Contents
+!(_asset/img/image.png to _asset/img/Background/Background_PCA.png)
 
 ### PCA - JJ
 Contents
