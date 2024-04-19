@@ -20,7 +20,7 @@ $$
 This can be expressed more formally as:
 
 $$
-H_0: \Sigma = I  
+H_0: \Sigma = I  \n
 H_1: \Sigma =\ I
 $$
 
@@ -31,6 +31,24 @@ Where:
 The null hypothesis asserts that the correlation matrix $\Sigma$ is equal to the identity matrix $I$, indicating that the variables in the dataset are essentially unrelated or uncorrelated.
 
 
+
+The null hypothesis \( H_0 \) for Bartlett's test of sphericity is stated as:
+
+\[ H_0: \text{The variables in the dataset are uncorrelated} \]
+
+This can be expressed more formally as:
+
+\[ H_0: \Sigma = I \]
+
+Where:
+- \( \Sigma \) represents the correlation matrix of the variables.
+- \( I \) represents the identity matrix.
+
+The null hypothesis asserts that the correlation matrix \( \Sigma \) is equal to the identity matrix \( I \), indicating that the variables in the dataset are essentially unrelated or uncorrelated.
+
+The alternative hypothesis \( H_1 \) for Bartlett's test is:
+
+\[ H_1: \text{The variables in the dataset are correlated} \]
 
 
 
