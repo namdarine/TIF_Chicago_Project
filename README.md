@@ -2,7 +2,7 @@
 ### Duration
 Jan, 2024 ~ Apr, 2024
 
-![[/_asset/img/intro.png]]
+![Intro](/_asset/img/intro.png)
 
 ## Abstract - Joe
 
