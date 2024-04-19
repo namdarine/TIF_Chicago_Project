@@ -1,8 +1,8 @@
 # TIF_Chicago_Project
+![Intro](/_asset/img/intro.png)
+
 ### Duration
 Jan, 2024 ~ Apr, 2024
-
-![Intro](/_asset/img/intro.png)
 
 ## Abstract - Joe
 
