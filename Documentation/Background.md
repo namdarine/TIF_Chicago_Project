@@ -6,8 +6,9 @@ When choosing what boundaries to use we had to ensure we would be able to acquir
 Contents
 
 ### Bartlett test of sphericity - JJ
-![PCA Background](/_asset/img/Background/Background_PCA.png)
-
+<div style="text-align:center">
+    ![PCA Background](/_asset/img/Background/Background_PCA.png)
+</div>
 ### PCA - JJ
 Contents
 
