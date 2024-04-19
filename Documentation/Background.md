@@ -21,7 +21,7 @@ This can be expressed more formally as:
 
 $$
 H_0: \Sigma = I
-H_1: \Sigma &ne I
+H_1: \Sigma \!= I
 $$
 
 Where:
