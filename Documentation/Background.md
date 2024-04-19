@@ -22,8 +22,9 @@ This can be expressed more formally as:
 $$
 H_0: \Sigma = I
 $$
+
 $$
-H_1: \Sigma $$\=$$ I
+H_1: \Sigma \neq I
 $$
 
 Where:
@@ -31,8 +32,6 @@ Where:
 - $I$ represents the identity matrix.
 
 The null hypothesis asserts that the correlation matrix $\Sigma$ is equal to the identity matrix $I$, indicating that the variables in the dataset are essentially unrelated or uncorrelated.
-
-
 
 
 
