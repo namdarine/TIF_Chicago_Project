@@ -7,9 +7,7 @@ Contents
 
 ### Bartlett test of sphericity - JJ
 
-<div style="text-align:center">
-    ![PCA Background](/_asset/img/Background/Background_PCA.png)
-</div>
+![PCA Background](/_asset/img/Background/Background_PCA.png)
 
 
 ### PCA - JJ
