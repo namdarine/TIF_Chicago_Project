@@ -9,7 +9,9 @@ Contents
 <div style="text-align:center">
     ![PCA Background](/_asset/img/Background/Background_PCA.png)
 </div>
-### PCA - JJ
+
+
+PCA - JJ
 Contents
 
 ### Clustering, elbow method, silhouette method - Nam
