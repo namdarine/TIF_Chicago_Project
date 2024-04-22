@@ -5,7 +5,7 @@
 Jan, 2024 ~ Apr, 2024
 
 ## Abstract - Joe
-
+[content]
 
 ## Introduction
   We want to relate information regarding income and education to TIF districts in Chicago. From further analysis, we aim to determine any inequalities that may have arisen alongside TIFs. Furthermore, we want to emphasize the “but for” clause of whether a TIF should exist at all by using factors of socioeconomic success. We hope the results of this project can further inform Chicago citizens of possible inequalities present in the current tax system of the city. 
