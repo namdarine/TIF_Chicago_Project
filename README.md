@@ -19,6 +19,10 @@ Regarding TIF districts, as of 2022 from the TIF Illumination Project, 131 distr
 
 Previous studies of TIFs have primarily focused on jobs and property values to assess the effects thus we believe it’s important to consider other factors that could contribute to socioeconomic success (Kim, 2023). It has also been proposed that the inclusion of the types of projects that occur could also be useful and is a potential consideration for future work (Kim, 2023). Overall though based on previous studies, it seems the positive effects for TIF district residents may come at the expense of other overlapping taxing districts (Kim, 2023; Weber et al., 2008). For example, nearly 50% of property tax revenue collected by TIFs would otherwise go to CPS (Jacobs, 2020).
 
+## [Results](./Documentation/Results.md)
+
+## [Background](./Documentation/Background.md)
+
 <!-- ## Conclusion and Limitations - Joe -->
 ## [Conclusion](./Documentation/Conclusion.md)
 
