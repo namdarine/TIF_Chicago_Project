@@ -41,7 +41,7 @@ The background research conducted mainly focused on the inconsistencies in how T
 ## [References](./Documentation/Reference.md)
 
 ## Contributors
- Juhyun Jung - Leader   
+ Juhyun Jung  
  Lane Hartwig  
  Kunwoo Lee  
  Nam Gyu Lee  
