@@ -1,5 +1,5 @@
 # TIF_Chicago_Project
-![Poster1](/_asset/img/small1.jpg)
+![Poster1](/_asset/img/small2.jpg)
 [Poster1](/_asset/img/Intro1.jpg)
 [Poster2](/_asset/img/Intro2.jpg)
 
