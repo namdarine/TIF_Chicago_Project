@@ -52,19 +52,20 @@ Where:
 ### PCA
 PCA is a statistical technique used for dimensionality reduction and data visualization. It's based on the idea of transforming the original variables into a new set of variables called principal components. These components are linear combinations of the original variables and are chosen to capture as much of the variance in the data as possible.
 
-Let the covariance matrix X be \( n \times p \).
+Let the Covariance matrix $ X $  be $\ n \times p $.
 
 By using Singular Value Decomposition (SVD),
 
-\[ X = UDV^T \]
+$ X = UDV^{T} $
 
-where \( U \) : \( n \times p \), \( D \) : \( p \times p \), \( V \) : \( p \times p \)
+where $ U $ : $ n \times p $, $ D $ : $ p \times p $, $ V $ : $ p \times p $
 
-\( V^TV = I_p \), \( U^TU = I_p \), \( D \) : diagonal matrix
+$ V^{T}V = I_p $,$\    $   $ U^{T}U = I_p $,$\  $ $ D $ : diagonal Matrix
 
 Therefore,
 
-The column vectors of \( V \) are the eigenvectors of \( X^TX \), and \( D \) is the eigenvalues of \( X^TX \).
+The column vector of $ V $ is the eigenvectors of $ X^{T}X $, and $ D $ is the eigenvalues of $ X^{T}X $.
+
 
 
 ### Clustering, elbow method, silhouette method
