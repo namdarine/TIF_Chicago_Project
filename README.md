@@ -1,7 +1,7 @@
 # TIF_Chicago_Project
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Poster1](/_asset/img/small0.jpg)ㅤㅤ![Poster1](/_asset/img/small2.jpg)   
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Poster1](/_asset/img/Intro1.jpg)ㅤㅤㅤㅤ[Poster2](/_asset/img/Intro2.jpg)
-[Poster2](/_asset/img/Intro2.jpg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Poster1](/_asset/img/Intro1.jpg)ㅤㅤㅤㅤㅤㅤ[Poster2](/_asset/img/Intro2.jpg)
+
 
 
 ### Duration
