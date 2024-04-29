@@ -2,7 +2,7 @@
 ### Understanding of boundaries
 When choosing what boundaries to use we had to ensure we would be able to acquire the correct data based on those boundaries and ensure the areas we were working with weren’t too large or small. TIF districts on average are fairly small and generally coincide with census tracts and block groups in relative areas. Therefore we originally chose to work with census tracts as a happy medium for boundary size, however, we later decided block groups would be better to use. The smaller size of block groups made it easier to differentiate whole community areas between TIF and non-TIF.
 
-### Income distribution (Gamma distribution) - Kunwoo
+### Income distribution (Gamma distribution)
 The US Census data has a data structure of income as {interval of income : population corresponding to the interval}. Thus, it is crucial to fit a probability distribution to determine on certain statistic. Observing our data, as shown in figure below, it seemed to be most reasonable to use gamma distribution.
 ![image](https://github.com/namdarine/TIF_Chicago_Project/assets/149856512/435603ea-4a1a-44b6-b7e2-d418deba8f4e)
 
