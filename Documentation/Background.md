@@ -53,9 +53,15 @@ Where:
 PCA is a statistical technique used for dimensionality reduction and data visualization. It's based on the idea of transforming the original variables into a new set of variables called principal components. These components are linear combinations of the original variables and are chosen to capture as much of the variance in the data as possible.
 
 Let Covariance matrix X be n x p 
-By using Singular Value Decomposition 
+By using Singular Value Decomposition (SVD)
+
 $$
-(SVD), X = UDV^T
+X = UDV^T
+where U : n x p, D: P x P, V : p x p
+V^{T}V= I_p, U^{T}U = I_p, D: diagonal\ Matrix
+Therefore,
+The column vector of V is eigen vectors of X^{T}X, and D is eigen value of X^{T}X
+
 $$
 
 ### Clustering, elbow method, silhouette method
