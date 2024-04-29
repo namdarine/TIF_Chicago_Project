@@ -49,8 +49,14 @@ Where:
 
 
 
-### PCA - JJ
-Contents
+### PCA
+PCA is a statistical technique used for dimensionality reduction and data visualization. It's based on the idea of transforming the original variables into a new set of variables called principal components. These components are linear combinations of the original variables and are chosen to capture as much of the variance in the data as possible.
+
+Let Covariance matrix X be n x p 
+By using Singular Value Decomposition 
+$$
+(SVD), X = UDV^T
+$$
 
 ### Clustering, elbow method, silhouette method
 > Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some specific sense defined by the analyst) to each other than to those in other groups (clusters).
