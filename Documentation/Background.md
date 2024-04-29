@@ -66,7 +66,6 @@ Therefore,
 
 The column vectors of \( V \) are the eigenvectors of \( X^TX \), and \( D \) is the eigenvalues of \( X^TX \).
 
-$$
 
 ### Clustering, elbow method, silhouette method
 > Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some specific sense defined by the analyst) to each other than to those in other groups (clusters).
