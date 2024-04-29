@@ -73,7 +73,7 @@ Let's say we reduce the dimensionality of the entire dataset to the point where 
 
 There are $p$ eigen values $\lambda_1, \lambda_2, \lambda_3, ... , \lambda_p$
 $$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lambda_i} = 0.9$$
-where $m$ is the number of Priciple Components
+where $m$ is the number of Priciple Components.  
 In Python, there is a library for plotting the graph,     
 ㅤㅤㅤㅤㅤ![PCA](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Background/Determine_the_number_of_Prinicipal_Components.png)
 
