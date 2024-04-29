@@ -1,5 +1,6 @@
 # TIF_Chicago_Project
-![Intro](/_asset/img/intro.png)
+![Intro](/_asset/img/intro1.png)
+![Intro](/_asset/img/intro2.png)
 
 ### Duration
 Jan, 2024 ~ Apr, 2024
