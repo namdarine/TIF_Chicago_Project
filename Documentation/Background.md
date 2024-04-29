@@ -73,8 +73,8 @@ Let's say we reduce the dimensionality of the entire dataset to the point where 
 
 There are $p$ eigen values $\lambda_1, \lambda_2, \lambda_3, ... , \lambda_p$
 $$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lambda_i}$$
-where $\m$ is the number of Priciple Components
-$$\displaystyle\sum_{i=1}^{10} t_i$$
+where $m$ is the number of Priciple Components
+
 
 
 ### Clustering, elbow method, silhouette method
