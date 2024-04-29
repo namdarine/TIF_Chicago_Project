@@ -55,8 +55,9 @@ PCA is a statistical technique used for dimensionality reduction and data visual
 Let Covariance matrix X be n x p 
 By using Singular Value Decomposition (SVD)
 
+
+$$ X = UDV{^T}$$
 $$
-X = UDV^T
 where U : n x p, D: P x P, V : p x p
 V^{T}V= I_p, U^{T}U = I_p, D: diagonal\ Matrix
 Therefore,
