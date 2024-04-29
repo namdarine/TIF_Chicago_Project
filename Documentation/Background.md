@@ -72,7 +72,7 @@ To determine the number of Priciple Components, you have to decide what percenta
 Let's say we reduce the dimensionality of the entire dataset to the point where it explains, for example, 90% of the variance.
 
 There are $p$ eigen values $\lambda_1, \lambda_2, \lambda_3, ... , \lambda_p$
-$$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lambda_i}$$
+$$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lambda_i} = 0.9$$
 where $m$ is the number of Priciple Components
 
 
