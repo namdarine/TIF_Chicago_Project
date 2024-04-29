@@ -5,7 +5,7 @@ When choosing what boundaries to use we had to ensure we would be able to acquir
 ### Income distribution (Gamma distribution) - Kunwoo
 Contents
 
-### Bartlett test of sphericity - JJ
+### Bartlett test of sphericity
 Before conducting Principal Component Analysis (PCA), it's essential to assess whether the data exhibit correlation among variables. For instance, if the data visualized in a scatter plot resemble a circular distribution (Fig. 1), it suggests a lack of correlation among variables, indicating that PCA may not be suitable.  ㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)
 
