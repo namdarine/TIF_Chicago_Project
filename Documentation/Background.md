@@ -3,7 +3,7 @@
 When choosing what boundaries to use we had to ensure we would be able to acquire the correct data based on those boundaries and ensure the areas we were working with weren’t too large or small. TIF districts on average are fairly small and generally coincide with census tracts and block groups in relative areas. Therefore we originally chose to work with census tracts as a happy medium for boundary size, however, we later decided block groups would be better to use. The smaller size of block groups made it easier to differentiate whole community areas between TIF and non-TIF.
 
 ### Income distribution (Gamma distribution) - Kunwoo
-Contents
+The US Census data has a data structure of income as {interval of income : population corresponding to the interval}. Thus, it is crucial to fit a probability distribution to have the probability of having certain interval of income correspond to the population percentage. Observing our data, as shown in figure below, it seemed to be most reasonable to use gamma distribution.
 
 ### Bartlett test of sphericity
 Before conducting Principal Component Analysis (PCA), it's essential to assess whether the data exhibit correlation among variables. For instance, if the data visualized in a scatter plot resemble a circular distribution (Fig. 1), it suggests a lack of correlation among variables, indicating that PCA may not be suitable.  ㅤ
