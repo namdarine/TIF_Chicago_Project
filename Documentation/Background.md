@@ -53,7 +53,7 @@ Where:
 PCA is a statistical technique used for dimensionality reduction and data visualization. It's based on the idea of transforming the original variables into a new set of variables called principal components. These components are linear combinations of the original variables and are chosen to capture as much of the variance in the data as possible.
 
 
-Let the Covariance matrix  \X   be $$\ n \times p $$.
+Let the Covariance matrix  $\X$   be $$\ n \times p $$.
 
 By using Singular Value Decomposition (SVD),
 
