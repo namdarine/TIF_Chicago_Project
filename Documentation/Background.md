@@ -4,8 +4,8 @@ When choosing what boundaries to use we had to ensure we would be able to acquir
 
 ### Income distribution (Gamma distribution) - Kunwoo
 The US Census data has a data structure of income as {interval of income : population corresponding to the interval}. Thus, it is crucial to fit a probability distribution to determine on certain statistic. Observing our data, as shown in figure below, it seemed to be most reasonable to use gamma distribution.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](_asset/img/Background/Median Income Scatter.png)
-
+[ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](_asset/img/Background/Median Income Scatter.png)
+](url)
 
 So, using gamma distribution, we matched the probability of having certain interval of income to the population percentage of that interval.
 
