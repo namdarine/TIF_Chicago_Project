@@ -76,10 +76,8 @@ $$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lamb
 where $m$ is the number of Priciple Components
 In Python, there is a library for plotting the graph,     
 ![PCA](./_asset/img/Background/Determine_the_number_of_Prinicipal_Components.png)
-![PCA](./_asset/img/Background/Determine_the_number_of_Prinicipal_Components.png)
-![PCA](./_asset/img/Background/Determine_the_number_of_Prinicipal_Components.png)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+![PCA](/_asset/img/Background/Determine_the_number_of_Prinicipal_Components.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
 ### Clustering, elbow method, silhouette method
