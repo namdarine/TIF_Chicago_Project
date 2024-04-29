@@ -75,8 +75,8 @@ There are $p$ eigen values $\lambda_1, \lambda_2, \lambda_3, ... , \lambda_p$
 $$\frac{\displaystyle\sum_{j=1}^{m} \lambda_j}{\displaystyle\sum_{i=1}^{p} \lambda_i} = 0.9$$
 where $m$ is the number of Priciple Components
 In Python, there is a library for plotting the graph,
-![PCA Background](/_asset/img/Background/Determine the number of Prinicipal Components.png)
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Determine the number of Prinicipal Components.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)
 
 
 ### Clustering, elbow method, silhouette method
