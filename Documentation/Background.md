@@ -56,9 +56,9 @@ Let the Covariance matrix $ X $  be $\ n \times p $.
 
 By using Singular Value Decomposition (SVD),
 
-$ X = UDV^{T} $
+$$ X = UDV^{T} $$
 
-where $ U $ : $ n \times p $, $ D $ : $ p \times p $, $ V $ : $ p \times p $
+where $$ U $$ : $ n \times p $, $ D $ : $ p \times p $, $ V $ : $ p \times p $
 
 $ V^{T}V = I_p $,$\    $   $ U^{T}U = I_p $,$\  $ $ D $ : diagonal Matrix
 
