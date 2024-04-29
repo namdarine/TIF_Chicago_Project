@@ -7,7 +7,7 @@ Contents
 
 ### Bartlett test of sphericity - JJ
 Before conducting Principal Component Analysis (PCA), it's essential to assess whether the data exhibit correlation among variables. For instance, if the data visualized in a scatter plot resemble a circular distribution (Fig. 1), it suggests a lack of correlation among variables, indicating that PCA may not be suitable.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)
 
 Thus, prior to applying PCA, it's prudent to examine whether the data meet the assumptions of the analysis. One way to assess this is by evaluating the similarity between the correlation matrix of variables and the identity matrix. This test, known as Bartlett's test of sphericity, helps determine if the variables are essentially uncorrelated, which is a prerequisite for PCA.
 
