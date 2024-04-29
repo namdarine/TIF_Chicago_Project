@@ -63,10 +63,10 @@ where $U$ : $n \times p$, $D$ : $p \times p$, $V$ : $p \times p$
 
 $V^{T}V = I_p$, $U^{T}U = I_p$, $D$ : diagonal Matrix
 
-Therefore,
-
 The column vector of $V$ is the eigenvectors of $X^{T}X$, and $D$ is the eigenvalues of $X^{T}X$.
 
+$$X = UDV^{T} \rightarrow XV = UD in V^{T}V = I_p$$
+Therefore, PCScore = $XV = UD$
 
 
 ### Clustering, elbow method, silhouette method
