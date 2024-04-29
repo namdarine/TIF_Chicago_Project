@@ -1,6 +1,6 @@
 # TIF_Chicago_Project
-![Intro](/_asset/img/Intro1.png)
-![Intro](/_asset/img/Intro2.png)
+![Intro](/_asset/img/Intro1.jpg)
+![Intro](/_asset/img/Intro2.jpg)
 
 
 ### Duration
