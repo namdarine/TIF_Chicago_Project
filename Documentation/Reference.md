@@ -40,6 +40,20 @@ U.S. Census Bureau. (2018). HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFL
 U.S. Census Bureau. (2017). HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS). American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. https://data.census.gov/table/ACSDT5Y2017.B19001?t=Income (Households, Families, Individuals)&g=050XX00US17031$1500000&moe=false.
   
 U.S. Census Bureau. (2016). HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS). American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. https://data.census.gov/table/ACSDT5Y2016.B19001?t=Income (Households, Families, Individuals)&g=050XX00US17031$1500000&moe=false.
+
+U.S. Census Bureau. (2022). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2021.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+  
+U.S. Census Bureau. (2021). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2021.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+  
+U.S. Census Bureau. (2020). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2020.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+   
+U.S. Census Bureau. (2019). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2019.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+  
+U.S. Census Bureau. (2018). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2018.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+  
+U.S. Census Bureau. (2017). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2017.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
+  
+U.S. Census Bureau. (2016). Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars. American Community Survey, ACS 5-Year Estimates Detailed Tables, Table B19001. [CVS]. [https://data.census.gov/table/ACSDT5Y2016.B15003?t=Educational Attainment&g=050XX00US17031$1500000&moe=false.](https://data.census.gov/table/ACSDT5Y2022.B19001?t=Income%20(Households,%20Families,%20Individuals):Income%20and%20Poverty&g=050XX00US17031$1500000)
   
 Applegate, T. (2015). TIF Boundaries [GeoJSON]. https://data.cityofchicago.org/Community-Economic-Development/TIF-Boundaries/ku9w-h8e9
   
