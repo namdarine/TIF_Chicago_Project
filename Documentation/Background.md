@@ -68,6 +68,14 @@ The column vector of $V$ is the eigenvectors of $X^{T}X$, and $D$ is the eigenva
 $$X = UDV^{T} \rightarrow XV = UD\ \ in\ \   V^{T}V = I_p$$
 Therefore, PCScore = $XV = UD$
 
+To determine the number of Priciple Components, you have to decide what percentage of variance you want to account for.
+Let's say we reduce the dimensionality of the entire dataset to the point where it explains, for example, 90% of the variance.
+
+There are p eigen values $\lambda_1, \lambda_2, \lambda_3, ... , \lambda_p$
+$$\frac{\sum_{j=1}^{m} \lambda_j}{\sum_{i=1}^{p} \lambda_i}$$
+where $\m$ is the number of Priciple Components
+
+
 
 ### Clustering, elbow method, silhouette method
 > Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some specific sense defined by the analyst) to each other than to those in other groups (clusters).
