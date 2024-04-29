@@ -31,6 +31,9 @@ The background research conducted mainly focused on the inconsistencies in how T
 <!-- ## Conclusion and Limitations - Joe -->
 ## [Conclusion](./Documentation/Conclusion.md)
 
+<!-- ## Ethics - Joe -->
+## [Ethics](./Documentation/Ethics.md)
+
 <!-- ## Acknowledgements - Lane -->
 ## [Acknowledgements](./Documentation/Acknowledgment.md)
 
