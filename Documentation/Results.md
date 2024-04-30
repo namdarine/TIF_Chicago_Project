@@ -1,7 +1,7 @@
 ## Results
 After analyzing the gathered data pertaining to the Chicago TIF (Tax Increment Financing) project, it was found that only the median income exhibits a significant variance. Following this observation, the decision was made to conduct a deeper examination focusing solely on the median income data.  
 ![Median_Income](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Others/Median_income_increase_graph_in_Chicago.png)  
-![Other_Metrics](https://github.com/namdarine/TIF_Chicago_Project/blob/1341c569e33aec66e149b434c80433a4ac737530/_asset/img/Chicago)  
+[Other_Metrics](https://github.com/namdarine/TIF_Chicago_Project/blob/1341c569e33aec66e149b434c80433a4ac737530/_asset/img/Chicago)  
   
 The outcomes of this analysis can be understood within the context of Chicago as a whole, thus prompting a classification based on community areas categorized by race, namely White, Hispanic, and Black populations.
 
