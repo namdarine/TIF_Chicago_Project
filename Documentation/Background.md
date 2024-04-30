@@ -91,14 +91,13 @@ k-means clustering which we use is a method of vector quantization, originally f
 #### DBSCAN Clustering
 <U>Density-based spatial clustering of applications with noise</U> (DBSCAN) is a data clustering algorithm proposed by Martin Ester, Hans-Peter Kriegel, Jörg Sander and Xiaowei Xu in 1996.[1] It is a **density-based** clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together (points with many nearby neighbors), marking as outliers points that lie alone in low-density regions (whose nearest neighbors are too far away). DBSCAN is one of the most common, and most commonly cited, clustering algorithms.
   
-DBSCAN requires to specify the minimum number of points.
-
-![DBSCAN](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Background/DBSCAN.png)
-
-**eps** : $\epsilon$, defines the neighborhood around a data point. If the distance between two data points is lower than or eaqual to 'eps', then they are considered neighbors. If the eps value is chosen too small then a large part of the data will be considered as an outlier. If it is chosen very large then the clusters will merge and the majority of the data points will be in the same clusters.
- 
-**minPts** : Minimum number of neighbors (data points) within eps radius. The larger the dataset, the larger value of MinPts must be chosen. As a general rule, the minimum MinPts can be derived from the number of dimensions D in the dataset as, MinPts >= D+1. But it should be at least 3.
-
+DBSCAN requires to specify the minimum number of points.  
+  
+![DBSCAN](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Background/DBSCAN.png)  
+  
+**eps** : $\epsilon$, defines the neighborhood around a data point. If the distance between two data points is lower than or eaqual to 'eps', then they are considered neighbors. If the eps value is chosen too small then a large part of the data will be considered as an outlier. If it is chosen very large then the clusters will merge and the majority of the data points will be in the same clusters.  
+  
+**minPts** : Minimum number of neighbors (data points) within eps radius. The larger the dataset, the larger value of MinPts must be chosen. As a general rule, the minimum MinPts can be derived from the number of dimensions D in the dataset as, MinPts >= D+1. But it should be at least 3.  
   
 #### Elbow method and Silhouette method
 **Elbow Method** is a technique that we use to determine the number of centroids(k) to use in a k-means clustering algorithm. A fundamental step for any unsupervised algorithm is to determine the optimal number of clusters into which the data may be clustered. Since we do not have any predefined number of clusters in unsupervised learning. We tend to use some method that can help us decide the best number of clusters.  In the case of K-Means clustering, we use Elbow Method for defining the best number of clustering. 
