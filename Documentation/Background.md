@@ -17,7 +17,7 @@ Before conducting Principal Component Analysis (PCA), it's essential to assess w
 It suggests a lack of correlation among variables, indicating that PCA may not be suitable.  ㅤ
 One way to assess this is evaluating the similarity between the correlation matrix and the identity matrix. This test is known as Bartlett's test of sphericity and helps determine if the variables are uncorrelated.
 
-The null hypothesis $H_0$ for Bartlett's test of sphericity is stated as:
+The null hypothesis $H_0$ for Bartlett's test of sphericity is:
 
 $$
 H_0: \text{The variables in the dataset are uncorrelated}
@@ -38,7 +38,7 @@ Where:
 - $I$ represents the identity matrix.
 
 The null hypothesis asserts that the correlation matrix $\Sigma$ is equal to the identity matrix $I$, indicating that the variables in the dataset are essentially unrelated or uncorrelated.
-The test statistic follows a chi-square distribution, and if the p-value associated with the test is small (less than 0.05), we reject the null hypothesis, indicating that the variables are not uncorrelated.
+If the p-value  is less than 0.05, we reject the null hypothesis, which means the variables are not uncorrelated.
 
 This can be formally expressed as:
 
