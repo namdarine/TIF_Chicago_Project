@@ -52,8 +52,7 @@ Where:
 
 
 ### PCA
-PCA is a statistical technique used for dimensionality reduction and data visualization. It's based on the idea of transforming the original variables into a new set of variables called principal components. These components are linear combinations of the original variables and are chosen to capture as much of the variance in the data as possible.
-
+PCA is a statistical approach for dimensionality reduction. It is based on the concept of changing the original variables into a new set of variables known as principle components. These components are linear combinations of the original variables, selected to capture as much volatility in the data as feasible.
 
 Let the Covariance matrix  $X$ be $\ n \times p $.
 
