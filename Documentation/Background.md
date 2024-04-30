@@ -14,7 +14,7 @@ So, using gamma distribution, we matched the probability of having certain inter
 ### Bartlett test of sphericity
 Before doing Principal Component Analysis (PCA), it is important to determine whether the data is correlated or not. Let's say the data is like this.
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)   
-It is ambiguous to choose Principle components. It implies a lack of connection between variables, showing that PCA may not be appropriate.  ㅤ  
+It is ambiguous to choose Principle components. It implies a lack of connection between variables, showing that PCA may not be appropriate.
 Therefore, it is crucial to determine whether the data is correleated or not. One approach to test this is to compare the correlation and identity matrices. This test, known as Bartlett's test of sphericity, determines whether the variables are uncorrelated.
 
 The null hypothesis $H_0$ for Bartlett's test of sphericity is:
