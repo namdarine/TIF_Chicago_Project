@@ -12,10 +12,10 @@ The US Census data has a data structure of income as {interval of income : popul
 So, using gamma distribution, we matched the probability of having certain interval of income to the population percentage of that interval.
 
 ### Bartlett test of sphericity
-Before conducting Principal Component Analysis (PCA), it's essential to assess whether the data exhibit correlation among variables. For instance, if the data visualized in a scatter plot resemble a circular distribution (Fig. 1), it suggests a lack of correlation among variables, indicating that PCA may not be suitable.  ㅤ
+Before conducting Principal Component Analysis (PCA), it's essential to assess whether the data is correlated or not. For instance, if the data is like this, 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![PCA Background](/_asset/img/Background/Background_PCA.png)
-
-Thus, prior to applying PCA, it's prudent to examine whether the data meet the assumptions of the analysis. One way to assess this is by evaluating the similarity between the correlation matrix of variables and the identity matrix. This test, known as Bartlett's test of sphericity, helps determine if the variables are essentially uncorrelated, which is a prerequisite for PCA.
+It suggests a lack of correlation among variables, indicating that PCA may not be suitable.  ㅤ
+One way to assess this is by evaluating the similarity between the correlation matrix of variables and the identity matrix. This test, known as Bartlett's test of sphericity, helps determine if the variables are essentially uncorrelated.
 
 The null hypothesis $H_0$ for Bartlett's test of sphericity is stated as:
 
