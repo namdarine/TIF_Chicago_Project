@@ -93,7 +93,7 @@ k-means clustering which we use is a method of vector quantization, originally f
   
 DBSCAN requires to specify the minimum number of points.  
   
-![DBSCAN](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Background/DBSCAN.png)  
+![DBSCAN](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Background/DBSCAN.png){: width="200" height="200"}  
   
 **eps** : $\epsilon$, defines the neighborhood around a data point. If the distance between two data points is lower than or eaqual to 'eps', then they are considered neighbors. If the eps value is chosen too small then a large part of the data will be considered as an outlier. If it is chosen very large then the clusters will merge and the majority of the data points will be in the same clusters.  
   
