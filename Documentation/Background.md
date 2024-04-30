@@ -52,7 +52,7 @@ Where:
 
 
 ### PCA
-PCA is a statistical approach for dimensionality reduction. It is based on the concept of changing the original variables into a new set of variables known as principle components. These components are linear combinations of the original variables, selected to capture as much volatility in the data as feasible.
+PCA is a statistical approach for dimensionality reduction. It changes the original variables into a new variables (Principle components). These priniciple components are linear combinations of the original variables, selected to capture as much volatility in the data as feasible.
 
 Let the Covariance matrix  $X$ be $\ n \times p $.
 
