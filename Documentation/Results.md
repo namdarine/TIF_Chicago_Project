@@ -5,8 +5,8 @@ After analyzing the gathered data pertaining to the Chicago TIF (Tax Increment F
   
 The outcomes of this analysis can be understood within the context of Chicago as a whole, thus prompting a classification based on community areas categorized by race, namely White, Hispanic, and Black populations.
 
-Utilizing k-means clustering with four clusters based on the silhouette score, the following cluster distinctions were made:
-![Silhouette_score](https://github.com/namdarine/TIF_Chicago_Project/blob/1341c569e33aec66e149b434c80433a4ac737530/_asset/img/Cluster_methods/silhouette_score.png)   
+Utilizing k-means clustering with four clusters based on the silhouette score, the following cluster distinctions were made:  
+![Silhouette_score](https://github.com/namdarine/TIF_Chicago_Project/blob/5ad19cd1fd7f64f51694dd6a56de763e1caed917/_asset/img/Cluster_methods/silhouette_score.png)   
 ![Cluster_map](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Cluster_Map.png)  
   
 Cluster 1: Characterized by a predominance of White residents.
