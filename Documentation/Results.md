@@ -9,10 +9,10 @@ Utilizing k-means clustering with four clusters based on the silhouette score, t
 ![Silhouette_score](https://github.com/namdarine/TIF_Chicago_Project/blob/5ad19cd1fd7f64f51694dd6a56de763e1caed917/_asset/img/Cluster_methods/silhouette_score.png)   
 ![Cluster_map](https://github.com/namdarine/TIF_Chicago_Project/blob/main/_asset/img/Cluster_Map.png)  
   
-Cluster 1: Characterized by a predominance of White residents.
-Cluster 2: Dominated by Black residents.
-Cluster 3: Exhibits a mixed demographic composition.
-Cluster 4: Predominantly Latino.
+Cluster 1: Characterized by a predominance of White residents.  
+Cluster 2: Dominated by Black residents.  
+Cluster 3: Exhibits a mixed demographic composition.  
+Cluster 4: Predominantly Latino.  
 
 Further scrutiny was directed towards assessing the median income within each cluster, revealing Cluster 1, representing White-dominant regions, to possess the highest median income.  
 ![Median_Income_by_Clusters](https://github.com/namdarine/TIF_Chicago_Project/blob/1341c569e33aec66e149b434c80433a4ac737530/_asset/img/Median_income_by_cluster.png)  
