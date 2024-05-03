@@ -1,5 +1,4 @@
 ## References
-(in APA style)
 
 Census Bureau Data. https://data.census.gov/
   
