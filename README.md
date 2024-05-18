@@ -4,7 +4,7 @@
 
 
 ## Contributors
- Juhyun Jung - Team leader
+ Juhyun Jung - Team leader  
  Lane Hartwig  
  Kunwoo Lee  
  Nam Gyu Lee  
