@@ -3,7 +3,12 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Poster1](/_asset/img/Intro1.jpg)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Poster2](/_asset/img/Intro2.jpg)
 
 
-
+## Contributors
+ Juhyun Jung - Team leader
+ Lane Hartwig  
+ Kunwoo Lee  
+ Nam Gyu Lee  
+ Youngjo Choi
 ### Duration
 Jan, 2024 ~ Apr, 2024
 
@@ -40,9 +45,4 @@ The background research conducted mainly focused on the inconsistencies in how T
 <!-- ## References - All -->
 ## [References](./Documentation/Reference.md)
 
-## Contributors
- Juhyun Jung - Team leader
- Lane Hartwig  
- Kunwoo Lee  
- Nam Gyu Lee  
- Youngjo Choi
+
